@@ -1,0 +1,16 @@
+.tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 32px;
+}
+
+.tags a {
+    font-family: var(--font-ui);
+    font-size: 13px;
+    background: #cac9c5;
+    color: var(--cor-texto); 
+    padding: 6px 12px;
+    border-radius: 16px;
+    text-decoration: none;
+}

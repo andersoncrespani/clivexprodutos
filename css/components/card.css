@@ -1,0 +1,5 @@
+.cartao {
+    background-color: var(--cor-card);
+    padding: 18px;
+    border-radius: var(--raio);
+}

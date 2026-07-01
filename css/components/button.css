@@ -1,0 +1,16 @@
+.btn {
+    font-family: var(--font-ui);
+    font-size: 13px;
+    padding: 8px 14px;
+    border: 1px solid var(--cor-texto);
+    background: none;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.btn--primary {
+    background-color: var(--cord-destaque);
+    color: #ffffff;
+    font-weight: bold;
+
+}
