@@ -1,3 +1,23 @@
-.box {
-    display:flex;
+
+.fotos {
+    display: flex;
+    width: 250px;
+    padding: 30px;
+    border-radius: 50px;
+    margin: 0;
+
+
+}
+
+.fotos:hover {
+    transform: scale(1.2);
+    cursor: pointer;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(3, 250px);
+    max-width: 400px;
+    margin: 0 auto;
+    justify-content: center;
 }
