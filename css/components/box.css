@@ -21,3 +21,14 @@
     margin: 0 auto;
     justify-content: center;
 }
+
+.descriçao{
+    margin-top: 20px;
+    
+}
+.lado-descriçao{
+    display: flex;
+   flex-direction: column;
+   gap: 20px;
+}
+

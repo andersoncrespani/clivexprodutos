@@ -1,0 +1,30 @@
+.pagina-produto {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 50px;
+}
+
+.lado-imagem {
+    flex: 1;
+    text-align: center;
+}
+
+.ffoto {
+    width: 350px;
+}
+
+.lado-descrica {
+    display: flex;
+    margin-top: 100px;
+}
+.titulo{
+    margin-bottom: 30px;
+}
+.preco {
+    margin-top: 50px;
+    
+}

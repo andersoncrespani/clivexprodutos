@@ -1,13 +1,22 @@
 .btn {
     font-family: var(--font-ui);
-    font-size: 13px;
+    font-size: 23px;
     padding: 8px 14px;
-    border: 1px solid var(--cor-texto);
     background: none;
-    border-radius: 20px;
+    border-radius: 10px;
     cursor: pointer;
+    background-color: green;
+    margin-top: 40px;
+    border: none;
+    box-sizing: border-box;
+    display: block;
+    width: 100%;
+    
 }
 
+.btn:hover {
+    background-color: rgb(134, 236, 134);
+}
 .btn--primary {
     background-color: var(--cord-destaque);
     color: #ffffff;
