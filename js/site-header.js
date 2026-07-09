@@ -4,7 +4,7 @@ connectedCallback() {
     `<header class="cabecalho">
         <div class="logo">clivex produtos</div>
         <nav class="navegacao">
-            <a href="#">redes</a>
+            <a href="../pages/login.html">login</a>
             <a href="../pages/inicio.html">produtos</a>
             <a href="#">sobre</a>
             <a href="#"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-cart-fill" viewBox="0 0 16 16">

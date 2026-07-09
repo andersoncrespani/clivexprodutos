@@ -9,9 +9,9 @@ class sitefooter extends HTMLElement {
             </div>
                <div class=" coluna">
                <h4>paginas</h4>
-               <a href="#">prdutos</a>
-               <a href="#">redes</a>
-               <a href="#">desenvolvedor</a>
+               <a href="../pages/inicio.html">produtos</a>
+               <a href="../pages/login.html">login</a>
+               <a href="https://github.com/andersoncrespani">desenvolvedor</a>
                <a href="#">trabalhe conosco</a>
             </div>
             <div class="coluna">
