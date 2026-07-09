@@ -2,14 +2,16 @@
     display: grid;
     justify-content: center;
     gap: 8px;
-
-    
+    background-color: rgb(202, 206, 200);
+    padding: 50px;
+    border-radius: 15px;
 }
 
 .text{
     display: grid;
     justify-content: center;
     font-family: Arial, Helvetica, sans-serif;
+    border-bottom: 4px solid black;
     
 }
 
@@ -33,5 +35,6 @@
 .pass:hover {
     cursor: pointer;
     border-color: rgb(0, 255, 85);
+    background-color: rgb(226, 226, 226);
 }
 

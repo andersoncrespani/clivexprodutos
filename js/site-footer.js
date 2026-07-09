@@ -18,7 +18,7 @@ class sitefooter extends HTMLElement {
                <h4>institucional</h4>
                <a href="#">termos de uso</a>
                <a href="#">privacidade</a>
-               <a href="#">quem somos</a>
+               <a href="../pages/sobre.html">quem somos</a>
                <a href="#">contato</a>
             </div>
             </footer>`
